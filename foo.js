@@ -1,1 +1,1 @@
-console.log("foo:test");
+console.log("foo");
